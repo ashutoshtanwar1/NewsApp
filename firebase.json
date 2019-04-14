@@ -1,0 +1,22 @@
+{
+  "hosting": {
+    "public": "views",
+    "rewrites" : [{
+      "source" : "/",
+      "function" : "app"
+    },
+    {
+      "source" : "/in",
+      "function" : "app"
+    },
+    {
+      "source" : "/int",
+      "function" : "app"
+    }],
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
