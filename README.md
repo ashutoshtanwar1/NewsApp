@@ -1,4 +1,4 @@
-# NewsApp
+# NewsAPP
 
 Fetch the latest National and International News.
 
