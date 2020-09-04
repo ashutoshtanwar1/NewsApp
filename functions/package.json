@@ -14,7 +14,7 @@
     "firebase": "^5.9.4",
     "firebase-admin": "~7.0.0",
     "firebase-functions": "^2.2.1",
-    "handlebars": "^4.1.1",
+    "handlebars": "^4.5.3",
     "hbs": "^4.0.3",
     "nodemon": "^1.18.10",
     "request": "^2.88.0"
